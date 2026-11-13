@@ -25,12 +25,6 @@ Java, Servlet, JSP, JSTL, JDBC, MySQL, Apache Tomcat 10.1, Eclipse
 5. Open `http://localhost:8080/ShopApp/`
 
 ## Screenshots
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Books
-![Books](screenshots/books.png)
-
-### Bills
-![Bills](screenshots/bills.png)
+![Dashboard](screenshots/dashboard.png.png)
+![Books](screenshots/books.png.png)
+![Bills](screenshots/bills.png.png)
